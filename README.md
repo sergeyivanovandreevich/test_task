@@ -29,5 +29,5 @@
 
 👤 **Сергей Иванов**
 
-- GitHub:
+- GitHub: [sergeyivanovandreevich](https://github.com/sergeyivanovandreevich)
 - Email: sergeyivanov.andreevich@gmail.com
